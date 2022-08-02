@@ -1,0 +1,6 @@
+{
+    "apiKey": "PTEROAPIKEY",
+    "token": "DISCORDBOTTOKEN",
+    "clientId": "BOTCLIENTID",
+	"guildId": "GUILDID"
+}
